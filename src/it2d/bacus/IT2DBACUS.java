@@ -18,8 +18,15 @@ public class IT2DBACUS {
 //     Grade grd = new Grade();
 //     grd.getGradeinput();
 
-       Products prod = new Products();
-       prod.products();
+//       Products prod = new Products();
+//       prod.products();
+
+ //      Accounts acc = new Accounts();
+ //      acc.detailsAccount(101,"Ace", "Bacus", "aceyyywelman@gmail.com", "Acey", "Acey1434");
+  //     acc.viewAccount();
+ //      Account acc = new Account();
+ //      acc.personInfo();
+       
     }
     
 }
