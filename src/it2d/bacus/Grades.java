@@ -24,5 +24,8 @@ public class Grades {
                 this.name,this.id,this.pr, this.md,this.pf,this.fn, average, status);
         
     }
+    public void editGrades(int id, double pr, double md){
+        
+    }
     
 }
